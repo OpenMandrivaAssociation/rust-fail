@@ -5,8 +5,8 @@
 %global crate fail
 
 Name:           rust-%{crate}
-Version:        0.3.0
-Release:        2%{?dist}
+Version:        0.5.1
+Release:        1%{?dist}
 Summary:        Failpoints for rust
 
 # Upstream license specification: Apache-2.0
